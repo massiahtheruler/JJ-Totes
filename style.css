@@ -1045,7 +1045,8 @@ left: 5vw;
 @media (max-width:480px) {
 
 h1.title{
-    font-size: 32px;
+    font-size: 30px;
+    line-height: 1;
 }
 
 p.header__para{
