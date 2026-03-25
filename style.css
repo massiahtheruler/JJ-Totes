@@ -280,6 +280,8 @@ LANDING PAGE
 .header__container{
     align-items: center;
     justify-content: center;
+    width: 100vw;
+    padding-right: 8px;
 }
 
 #landing-page {
@@ -1125,6 +1127,7 @@ p.header__para{
         font-size: 40px}
 
     .header__para {
+        width: 90vw;
         font-size: 18px;
     }
 .nav__link--anchor{
