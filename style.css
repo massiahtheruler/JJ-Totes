@@ -1044,6 +1044,10 @@ left: 5vw;
 
 @media (max-width:480px) {
 
+nav{
+    height: 30px;
+}
+
 h1.title{
     font-size: 30px;
     line-height: 1;
