@@ -1091,6 +1091,9 @@ left: 5vw;
         .nav__link:first-child {
         display: none;
     }
+    .nav__link--list{
+        padding-right: 32px;
+    }
 }
 
 @media (max-width:480px) {
