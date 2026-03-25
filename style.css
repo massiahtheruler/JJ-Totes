@@ -1099,8 +1099,14 @@ nav{
     height: 30px;
 }
 
+.header__content{
+    margin-top:64px;
+
+    }
+
+
 h1.title{
-    font-size: 24px;
+    font-size: 40px;
     line-height: 1;
 }
 
@@ -1108,6 +1114,7 @@ p.header__para{
     font-size: 16px;
     line-height: 0.;
     margin-left: 0;
+    margin-top: 64px;
 }
 
     .social__link{
@@ -1176,5 +1183,14 @@ p.header__para{
 
      .modal__sub-title--about{
         padding: 0;
+     }
+
+     .benefit__description--title{
+        padding-bottom:16px;
+        font-size: 20px;
+     }
+     .benefit__description--sub-title{
+        padding-bottom: 8px;
+        color: rgb(255, 167, 112);
      }
 }
