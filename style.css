@@ -955,7 +955,7 @@ left: 5vw;
 .modal{
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -45%);
     height: 100vh;
     width: 75vw;
     flex-direction: column-reverse;
@@ -1083,8 +1083,8 @@ p.header__para{
         right:8px;
     }
     #logo {
-        width: 150px;
-        height: 180px;
+        width: 120px;
+        height: 160px;
         transform: translateX(-20px);
     }
     .project__description--para{
