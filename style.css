@@ -1127,8 +1127,9 @@ p.header__para{
         font-size: 40px}
 
     .header__para {
-        width: 90vw;
+        width: 75vw;
         font-size: 18px;
+        text-align: left;
     }
 .nav__link--anchor{
     font-size: 14px;
