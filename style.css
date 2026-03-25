@@ -1169,4 +1169,12 @@ p.header__para{
      .modal__para{
         width: 95%;
      }
+
+     .modal__title--about{
+        padding: 2px 0;
+     }
+
+     .modal__sub-title--about{
+        padding: 0;
+     }
 }
