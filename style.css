@@ -709,6 +709,15 @@ border: 1px solid;
     min-height: 100%;
 }
 
+     .benefit__description--title{
+        padding-bottom:16px;
+        font-size: 20px;
+        text-decoration: underline;
+     }
+     .benefit__description--sub-title{
+        padding-bottom: 8px;
+        color: rgb(255, 167, 112);}
+
 .benefit__description{
     margin-top: auto;
     padding: 16px;
